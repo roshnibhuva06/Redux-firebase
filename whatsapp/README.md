@@ -1,12 +1,33 @@
-# React + Vite
+<h1>WhatsApp Clone 💬</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A real-time chat application built with React.js and Firebase that mimics the functionality of WhatsApp! Users can sign in, send messages, create chat rooms, and experience live updates instantly. Perfect for learning real-time databases, authentication, and React state management.
 
-Currently, two official plugins are available:
+Features ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔑 Authentication: Sign in with Google account using Firebase Auth
 
-## Expanding the ESLint configuration
+💬 Real-time Chat: Send and receive messages instantly
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🏷️ Chat Rooms: Create multiple chat rooms for group conversations
+
+📅 Timestamps: Messages show the sent time
+
+Tech Stack 🛠️
+
+Frontend: React.js, CSS
+
+Backend / Database: Firebase Firestore
+
+Authentication: Firebase Auth (Google Sign-In)
+
+Hosting: Firebase Hosting
+
+🚀 Future Enhancements
+
+🖼️ Media sharing (images/videos)
+
+🌙 Dark mode
+
+🔔 Push notifications for new messages
+
+🔄 Message read receipts & online status
